@@ -4,4 +4,4 @@ idna==3.11
 ping3==5.1.5
 prometheus_client==0.24.1
 requests==2.32.5
-urllib3==2.6.3
+urllib3==2.8.0
