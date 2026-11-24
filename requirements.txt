@@ -1,4 +1,4 @@
-certifi==2026.1.4
+certifi==2026.10.18
 charset-normalizer==3.4.4
 idna==3.11
 ping3==5.1.5
